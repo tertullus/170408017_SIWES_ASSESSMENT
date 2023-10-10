@@ -1,0 +1,10 @@
+# Ignore all media files
+
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.svg
+*.SVG
